@@ -1,0 +1,105 @@
+﻿column,code,label
+host_response_time,0,within an hour
+host_response_time,1,within a few hours
+host_response_time,2,within a day
+host_response_time,3,a few days or more
+neighbourhood_cleansed,0,Ang Mo Kio
+neighbourhood_cleansed,1,Bedok
+neighbourhood_cleansed,2,Bishan
+neighbourhood_cleansed,3,Bukit Batok
+neighbourhood_cleansed,4,Bukit Merah
+neighbourhood_cleansed,5,Bukit Panjang
+neighbourhood_cleansed,6,Bukit Timah
+neighbourhood_cleansed,7,Central Water Catchment
+neighbourhood_cleansed,8,Changi
+neighbourhood_cleansed,9,Choa Chu Kang
+neighbourhood_cleansed,10,Clementi
+neighbourhood_cleansed,11,Downtown Core
+neighbourhood_cleansed,12,Geylang
+neighbourhood_cleansed,13,Hougang
+neighbourhood_cleansed,14,Jurong East
+neighbourhood_cleansed,15,Jurong West
+neighbourhood_cleansed,16,Kallang
+neighbourhood_cleansed,17,Mandai
+neighbourhood_cleansed,18,Marina South
+neighbourhood_cleansed,19,Marine Parade
+neighbourhood_cleansed,20,Museum
+neighbourhood_cleansed,21,Newton
+neighbourhood_cleansed,22,Novena
+neighbourhood_cleansed,23,Orchard
+neighbourhood_cleansed,24,Outram
+neighbourhood_cleansed,25,Pasir Ris
+neighbourhood_cleansed,26,Pioneer
+neighbourhood_cleansed,27,Punggol
+neighbourhood_cleansed,28,Queenstown
+neighbourhood_cleansed,29,River Valley
+neighbourhood_cleansed,30,Rochor
+neighbourhood_cleansed,31,Sembawang
+neighbourhood_cleansed,32,Sengkang
+neighbourhood_cleansed,33,Serangoon
+neighbourhood_cleansed,34,Singapore River
+neighbourhood_cleansed,35,Southern Islands
+neighbourhood_cleansed,36,Sungei Kadut
+neighbourhood_cleansed,37,Tampines
+neighbourhood_cleansed,38,Tanglin
+neighbourhood_cleansed,39,Toa Payoh
+neighbourhood_cleansed,40,Tuas
+neighbourhood_cleansed,41,Western Water Catchment
+neighbourhood_cleansed,42,Woodlands
+neighbourhood_cleansed,43,Yishun
+neighbourhood_group_cleansed,0,Central Region
+neighbourhood_group_cleansed,1,East Region
+neighbourhood_group_cleansed,2,North Region
+neighbourhood_group_cleansed,3,North-East Region
+neighbourhood_group_cleansed,4,West Region
+property_type,0,Boat
+property_type,1,Campsite
+property_type,2,Entire condo
+property_type,3,Entire guest suite
+property_type,4,Entire guesthouse
+property_type,5,Entire home
+property_type,6,Entire loft
+property_type,7,Entire place
+property_type,8,Entire rental unit
+property_type,9,Entire serviced apartment
+property_type,10,Entire townhouse
+property_type,11,Entire villa
+property_type,12,Private room
+property_type,13,Private room in barn
+property_type,14,Private room in bed and breakfast
+property_type,15,Private room in bungalow
+property_type,16,Private room in casa particular
+property_type,17,Private room in castle
+property_type,18,Private room in condo
+property_type,19,Private room in earthen home
+property_type,20,Private room in guest suite
+property_type,21,Private room in guesthouse
+property_type,22,Private room in home
+property_type,23,Private room in hostel
+property_type,24,Private room in loft
+property_type,25,Private room in rental unit
+property_type,26,Private room in serviced apartment
+property_type,27,Private room in townhouse
+property_type,28,Private room in train
+property_type,29,Private room in vacation home
+property_type,30,Private room in villa
+property_type,31,Room in aparthotel
+property_type,32,Room in boutique hotel
+property_type,33,Room in hostel
+property_type,34,Room in hotel
+property_type,35,Room in serviced apartment
+property_type,36,Shared room
+property_type,37,Shared room in bed and breakfast
+property_type,38,Shared room in boutique hotel
+property_type,39,Shared room in bungalow
+property_type,40,Shared room in dome
+property_type,41,Shared room in guesthouse
+property_type,42,Shared room in home
+property_type,43,Shared room in hostel
+property_type,44,Shared room in hotel
+property_type,45,Shared room in rental unit
+property_type,46,Tiny home
+room_type,0,Entire home/apt
+room_type,1,Hotel room
+room_type,2,Private room
+room_type,3,Shared room
